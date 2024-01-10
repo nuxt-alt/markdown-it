@@ -14,7 +14,7 @@ yarn add @nuxt-alt/markdown-it
 ```ts
 export default defineNuxtConfig({
     modules: [
-        '@nuxtjs/markdown-it'
+        '@nuxt-alt/markdown-it'
     ],
     // [optional] markdownit options
     // See https://github.com/markdown-it/markdown-it
@@ -38,7 +38,7 @@ export default defineNuxtConfig({
 ```ts
 export default defineNuxtConfig({
     modules: [
-        '@nuxtjs/markdown-it'
+        '@nuxt-alt/markdown-it'
     ],
     markdownit: {
         runtime: true

@@ -1,6 +1,6 @@
 {
     "name": "@nuxt-alt/markdown-it",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Alternaive module to @nuxtjs/markdownit",
     "repository": {
         "type": "git",
